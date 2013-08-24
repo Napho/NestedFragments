@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Nested Fragments</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="mtextstring">
+	    This is the first fragment nested activity, you can add a 
+	    listener to the button and the required interface to change text in fragment 2	        
+	</string>
+	<string name="mtextstring2">
+	    I am fragment 2, to change my text, add a listener fragment one and the string 
+	    that will replace me, if you dont see the button, then you have swiped it to the left 
+	</string>
+	<string name="button">Next Text</string>
+</resources>
